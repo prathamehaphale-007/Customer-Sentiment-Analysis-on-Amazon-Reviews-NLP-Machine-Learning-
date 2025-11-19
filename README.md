@@ -48,12 +48,6 @@ Machine Learning
 
 Logistic Regression
 
-Naive Bayes
-
-SVM / Random Forest (if added)
-
-Hyperparameter tuning
-
 Accuracy, Precision, Recall, F1 Score
 
 Visualization
@@ -76,7 +70,7 @@ Matplotlib, Seaborn
 
 Scikit-learn
 
-NLTK / spaCy (whichever was used)
+NLTK 
 
 Jupyter Notebook
 
@@ -86,25 +80,10 @@ The final model accurately predicts sentiment and demonstrates clear improvement
 
 This project represents a successful application of NLP and machine learning to solve a practical real world problem.
 
-📁 Project Structure
-
-Customer Sentiment Analysis/
-
-│── data/
-
-│── notebooks/
-
-│── images/
-
-│── README.md
-
-│── sentiment_model.pkl (if saved)
-
-│── requirements.txt
 
 📈 What This Project Demonstrates
 
-Your ability to work with messy real world data
+My ability to work with messy real world data
 
 Strong NLP and machine learning fundamentals
 
